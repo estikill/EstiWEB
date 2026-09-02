@@ -1,3 +1,6 @@
-body { background-color: rgb(250, 224, 244); }
-h1 { color: rgb(0, 0, 0); }
+#grad {
+  background-image: linear-gradient(to top, pink, white);
+}
+h1 { color: white;
+  text-shadow: 2px 2px 4px #000000; }
 p { color: rgb(0, 0, 0); }
